@@ -1,0 +1,4 @@
+jaccard_cutoff,nodes,edges,components,top_pair_survives
+0.25,49,184,1,True
+0.3,43,115,2,True
+0.35,32,77,4,True

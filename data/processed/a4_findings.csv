@@ -1,0 +1,5 @@
+Finding,Evidence
+Graph reduction,Graph A 501 nodes/18049 edges -> Analysis Graph 43 nodes/115 edges -> Display Graph 12 nodes/15 edges
+Core Watchlist,Budew: prevalence=35.8%; weighted degree=7.614; betweenness=0.302
+Pair-check,Dragapult ex — Rosa's Encouragement: shared=94; Jaccard=0.712; Lift=4.366; breadth=3 archetypes
+Robustness,J=0.25:Y; J=0.30:Y; J=0.35:Y

@@ -1,0 +1,585 @@
+deck_id,tournament_id,tournament,tournament_date,archetype,unique_card_names,total_copies,valid_60
+D0160,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,22,60,True
+D0140,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0141,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Mewtwo,24,60,True
+D0142,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Archaludon Dudunsparce,23,60,True
+D0143,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0145,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,19,60,True
+D0146,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,25,60,True
+D0148,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lopunny Dudunsparce,24,60,True
+D0152,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0153,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Starmie Froslass,33,60,True
+D0155,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,20,60,True
+D0158,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,28,60,True
+D0159,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,26,60,True
+D0135,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,25,60,True
+D0161,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Wailord,19,60,True
+D0162,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Clefairy Ogerpon,27,60,True
+D0163,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,25,60,True
+D0164,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lopunny Dusknoir,24,60,True
+D0166,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0167,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Venusaur,23,60,True
+D0169,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,25,60,True
+D0170,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,20,60,True
+D0171,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0173,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,23,60,True
+D0174,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Other,21,60,True
+D0175,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,25,60,True
+D0119,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0105,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,27,60,True
+D0106,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,27,60,True
+D0108,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,28,60,True
+D0109,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,28,60,True
+D0111,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,28,60,True
+D0112,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,27,60,True
+D0113,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Grimmsnarl Froslass,23,60,True
+D0114,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,21,60,True
+D0115,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Beedrill,23,60,True
+D0116,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,27,60,True
+D0117,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,25,60,True
+D0118,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Grimmsnarl Froslass,25,60,True
+D0177,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Sharpedo Toxtricity,20,60,True
+D0120,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,31,60,True
+D0121,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0123,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,25,60,True
+D0124,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Ogerpon Meganium Hydrapple,25,60,True
+D0125,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0126,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0129,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Mewtwo,27,60,True
+D0130,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Starmie,28,60,True
+D0131,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Sharpedo Toxtricity,20,60,True
+D0132,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0133,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,27,60,True
+D0134,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,22,60,True
+D0241,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,25,60,True
+D0215,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,27,60,True
+D0217,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,25,60,True
+D0218,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Hydreigon,26,60,True
+D0220,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,27,60,True
+D0221,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,24,60,True
+D0223,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,29,60,True
+D0225,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lopunny Dudunsparce,24,60,True
+D0230,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Starmie,29,60,True
+D0236,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,24,60,True
+D0238,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Chandelure,24,60,True
+D0239,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,25,60,True
+D0240,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,28,60,True
+D0214,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,21,60,True
+D0243,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Ogerpon Meganium Hydrapple,26,60,True
+D0244,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Yanmega,25,60,True
+D0245,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Other,24,60,True
+D0246,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,24,60,True
+D0247,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,27,60,True
+D0248,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,23,60,True
+D0250,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0251,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Toxtricity Box,27,60,True
+D0252,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lopunny Dusknoir,25,60,True
+D0253,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Darkrai,28,60,True
+D0254,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Manectric Eelektrik,24,60,True
+D0255,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,29,60,True
+D0194,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,26,60,True
+D0178,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,28,60,True
+D0180,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Beedrill,21,60,True
+D0181,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dudunsparce,27,60,True
+D0182,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,24,60,True
+D0183,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lopunny Dudunsparce,24,60,True
+D0185,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Flareon Noctowl,29,60,True
+D0186,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,27,60,True
+D0187,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,28,60,True
+D0188,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,25,60,True
+D0189,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,26,60,True
+D0192,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0193,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0128,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Grimmsnarl Froslass,28,60,True
+D0196,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,20,60,True
+D0197,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,25,60,True
+D0198,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,21,60,True
+D0199,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0200,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Toucannon,24,60,True
+D0201,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,26,60,True
+D0202,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,27,60,True
+D0204,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Zygarde,20,60,True
+D0208,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Ogerpon Meganium,26,60,True
+D0210,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0212,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,28,60,True
+D0213,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0104,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,27,60,True
+D0035,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Toucannon,35,60,True
+D0036,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0037,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0038,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,23,60,True
+D0039,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0040,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,22,60,True
+D0042,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0043,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0045,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,27,60,True
+D0047,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0049,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,24,60,True
+D0034,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,18,60,True
+D0052,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,26,60,True
+D0053,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Ogerpon Meganium Hydrapple,28,60,True
+D0056,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0057,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Other,27,60,True
+D0059,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0062,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dudunsparce,27,60,True
+D0063,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,21,60,True
+D0066,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,27,60,True
+D0067,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Froslass Dudunsparce,27,60,True
+D0071,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,26,60,True
+D0018,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,25,60,True
+D0002,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0003,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Sharpedo Toxtricity,21,60,True
+D0005,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0006,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,25,60,True
+D0008,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,26,60,True
+D0009,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Chandelure,25,60,True
+D0010,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,24,60,True
+D0012,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,28,60,True
+D0013,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,23,60,True
+D0015,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Raging Bolt Ogerpon,29,60,True
+D0051,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Palafin,26,60,True
+D0019,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0023,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,17,60,True
+D0024,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,28,60,True
+D0025,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,27,60,True
+D0026,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0027,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,22,60,True
+D0030,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,19,60,True
+D0031,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Yanmega,31,60,True
+D0032,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,29,60,True
+D0033,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,24,60,True
+D0082,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,23,60,True
+D0083,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Toucannon,24,60,True
+D0084,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,28,60,True
+D0086,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0076,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0075,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,29,60,True
+D0089,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Sharpedo Toxtricity,25,60,True
+D0091,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Grimmsnarl Froslass,23,60,True
+D0092,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,28,60,True
+D0094,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,30,60,True
+D0077,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0074,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,20,60,True
+D0095,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,24,60,True
+D0096,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0072,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,26,60,True
+D0098,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,27,60,True
+D0100,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0081,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0101,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,24,60,True
+D0080,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Grimmsnarl Froslass,24,60,True
+D0102,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,27,60,True
+D0103,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0207,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Excadrill,25,60,True
+D0249,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,29,60,True
+D0078,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,N's Zoroark,24,60,True
+D0235,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,25,60,True
+D0231,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0233,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,29,60,True
+D0069,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,29,60,True
+D0070,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,28,60,True
+D0184,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,25,60,True
+D0073,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,26,60,True
+D0203,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0139,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0107,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,25,60,True
+D0144,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,28,60,True
+D0176,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0205,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,23,60,True
+D0190,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0150,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0079,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Beedrill,23,60,True
+D0110,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0061,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,29,60,True
+D0058,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0234,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0237,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,29,60,True
+D0085,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Okidogi Barbaracle,25,60,True
+D0151,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,26,60,True
+D0088,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,25,60,True
+D0044,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,30,60,True
+D0216,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dusknoir,24,60,True
+D0021,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,29,60,True
+D0007,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,23,60,True
+D0016,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0014,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0001,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0097,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,27,60,True
+D0179,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,24,60,True
+D0087,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,30,60,True
+D0219,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,27,60,True
+D0046,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Starmie Dusknoir,28,60,True
+D0090,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,28,60,True
+D0060,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Raging Bolt Ogerpon,27,60,True
+D0157,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,31,60,True
+D0020,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0050,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Sharpedo Toxtricity,24,60,True
+D0222,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cinccino,20,60,True
+D0055,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,23,60,True
+D0137,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Lucario,21,60,True
+D0028,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0191,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,25,60,True
+D0127,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,29,60,True
+D0224,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,27,60,True
+D0048,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Sharpedo Toxtricity,26,60,True
+D0065,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Crustle,29,60,True
+D0228,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,26,60,True
+D0229,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0165,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,27,60,True
+D0227,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,26,60,True
+D0211,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Blaziken,29,60,True
+D0029,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,28,60,True
+D0022,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Kangaskhan Bouffalant,24,60,True
+D0149,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,27,60,True
+D0068,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Ogerpon Meganium Hydrapple,23,60,True
+D0195,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Decidueye,28,60,True
+D0242,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0041,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Lopunny Dusknoir,26,60,True
+D0154,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Diancie Dusknoir,28,60,True
+D0093,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,25,60,True
+D0011,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Manectric Eelektrik,26,60,True
+D0122,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0136,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,24,60,True
+D0209,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Festival Lead,27,60,True
+D0156,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,27,60,True
+D0168,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0099,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult Dusknoir,25,60,True
+D0004,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Slowking,26,60,True
+D0054,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Ceruledge,16,60,True
+D0232,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Alakazam Dudunsparce,24,60,True
+D0147,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Mega Froslass,18,60,True
+D0017,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dragapult,25,60,True
+D0172,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,20,60,True
+D0064,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0226,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Dhelmise,24,60,True
+D0138,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Basic Box,29,60,True
+D0206,6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,Cynthia's Garchomp,24,60,True
+D0360,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Sharpedo Toxtricity,25,60,True
+D0346,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,21,60,True
+D0347,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Archaludon Dudunsparce,25,60,True
+D0349,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,24,60,True
+D0355,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,25,60,True
+D0356,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0357,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,25,60,True
+D0358,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,28,60,True
+D0359,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Excadrill,20,60,True
+D0345,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0361,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,21,60,True
+D0362,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,28,60,True
+D0364,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dudunsparce,24,60,True
+D0365,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium,23,60,True
+D0369,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,25,60,True
+D0372,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0375,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0377,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mew Box,25,60,True
+D0344,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,26,60,True
+D0341,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dusknoir,24,60,True
+D0340,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,28,60,True
+D0339,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,25,60,True
+D0336,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Froslass Munkidori,31,60,True
+D0335,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,29,60,True
+D0332,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Festival Lead,28,60,True
+D0330,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Raging Bolt Ogerpon,30,60,True
+D0329,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dhelmise,24,60,True
+D0327,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0326,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,25,60,True
+D0325,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,28,60,True
+D0324,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,24,60,True
+D0323,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,23,60,True
+D0321,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Toucannon,26,60,True
+D0408,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,25,60,True
+D0428,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,33,60,True
+D0427,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Clefairy Ogerpon,30,60,True
+D0425,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Cynthia's Garchomp,20,60,True
+D0424,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,25,60,True
+D0422,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dusknoir,24,60,True
+D0421,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0420,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,26,60,True
+D0418,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Starmie,20,60,True
+D0416,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0415,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Excadrill,20,60,True
+D0413,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Toucannon,27,60,True
+D0412,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,30,60,True
+D0411,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Blaziken,29,60,True
+D0410,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,26,60,True
+D0409,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,25,60,True
+D0257,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,26,60,True
+D0405,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Festival Lead,27,60,True
+D0404,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,25,60,True
+D0399,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0398,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Cynthia's Garchomp,22,60,True
+D0396,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Excadrill,20,60,True
+D0394,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,28,60,True
+D0393,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,27,60,True
+D0392,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Iono's Bellibolt,17,60,True
+D0390,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,27,60,True
+D0388,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Paldean Tauros,22,60,True
+D0385,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,26,60,True
+D0384,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,21,60,True
+D0383,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,28,60,True
+D0380,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Eelektrik,26,60,True
+D0378,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Festival Lead,25,60,True
+D0291,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,25,60,True
+D0305,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0304,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Grimmsnarl Froslass,23,60,True
+D0264,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dhelmise,23,60,True
+D0302,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0299,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium,22,60,True
+D0298,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,25,60,True
+D0272,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0295,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Excadrill,18,60,True
+D0294,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,27,60,True
+D0273,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0292,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0268,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,23,60,True
+D0275,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,26,60,True
+D0276,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Eelektrik,25,60,True
+D0289,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,27,60,True
+D0320,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dudunsparce,22,60,True
+D0278,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Sharpedo Toxtricity,22,60,True
+D0287,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Grimmsnarl Froslass,26,60,True
+D0279,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Excadrill,24,60,True
+D0284,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dhelmise,22,60,True
+D0283,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0281,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Greninja,27,60,True
+D0282,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Rocket's Honchkrow,18,60,True
+D0306,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Steven's Metagross,29,60,True
+D0318,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,25,60,True
+D0263,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,26,60,True
+D0260,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,24,60,True
+D0315,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Grimmsnarl Froslass,24,60,True
+D0258,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,23,60,True
+D0312,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mew Box,24,60,True
+D0313,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Raging Bolt Ogerpon,26,60,True
+D0316,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,25,60,True
+D0309,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,25,60,True
+D0319,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dusknoir,26,60,True
+D0317,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,28,60,True
+D0328,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,27,60,True
+D0303,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,24,60,True
+D0387,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dusknoir,25,60,True
+D0430,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dudunsparce,24,60,True
+D0311,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dudunsparce,26,60,True
+D0374,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Rocket's Honchkrow,20,60,True
+D0300,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,24,60,True
+D0391,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,25,60,True
+D0426,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,27,60,True
+D0381,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0310,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0379,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,27,60,True
+D0286,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dusknoir,26,60,True
+D0297,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0274,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Festival Lead,26,60,True
+D0338,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Lucario,25,60,True
+D0337,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Hop's Trevenant,26,60,True
+D0267,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,25,60,True
+D0350,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dudunsparce,25,60,True
+D0417,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,30,60,True
+D0431,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,26,60,True
+D0354,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,25,60,True
+D0343,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dudunsparce,27,60,True
+D0368,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0277,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,24,60,True
+D0367,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dhelmise,25,60,True
+D0401,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult,27,60,True
+D0395,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Excadrill,20,60,True
+D0353,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,27,60,True
+D0259,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,29,60,True
+D0331,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,21,60,True
+D0376,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,23,60,True
+D0371,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,30,60,True
+D0280,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,28,60,True
+D0363,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Dudunsparce,25,60,True
+D0261,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Hop's Trevenant,25,60,True
+D0419,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Crustle,26,60,True
+D0366,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Rocket's Honchkrow,19,60,True
+D0333,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Starmie Dusknoir,30,60,True
+D0322,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,27,60,True
+D0400,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Cinccino,20,60,True
+D0352,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,23,60,True
+D0296,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,23,60,True
+D0351,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dusknoir,25,60,True
+D0262,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,26,60,True
+D0382,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Dragonite,29,60,True
+D0397,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,25,60,True
+D0403,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0423,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,25,60,True
+D0271,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Festival Lead,28,60,True
+D0373,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Starmie Dusknoir,27,60,True
+D0389,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,29,60,True
+D0266,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,N's Zoroark,25,60,True
+D0334,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Grimmsnarl Froslass,23,60,True
+D0429,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0307,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Dhelmise,22,60,True
+D0256,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0402,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Iono's Bellibolt,21,60,True
+D0290,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Rocket's Mewtwo,24,60,True
+D0293,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0301,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Basic Box,29,60,True
+D0406,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0285,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Toucannon,25,60,True
+D0269,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Manectric Eelektrik,23,60,True
+D0386,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0407,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Manectric Eelektrik,19,60,True
+D0414,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Other,25,60,True
+D0348,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0314,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Greninja,29,60,True
+D0342,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Lucario,27,60,True
+D0308,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lopunny Dusknoir,24,60,True
+D0265,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Lucario Hariyama,20,60,True
+D0270,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Mega Greninja,26,60,True
+D0370,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Slowking,28,60,True
+D0288,6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,Ogerpon Meganium Hydrapple,25,60,True
+D0509,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lillie's Clefairy,25,60,True
+D0530,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Slowking,25,60,True
+D0527,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Other,23,60,True
+D0525,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,26,60,True
+D0524,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,24,60,True
+D0522,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Wailord,22,60,True
+D0521,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Greninja,33,60,True
+D0520,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,23,60,True
+D0519,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Basic Box,28,60,True
+D0517,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Gengar,24,60,True
+D0516,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lucario Hariyama,20,60,True
+D0515,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,24,60,True
+D0514,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ethan's Typhlosion,30,60,True
+D0512,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Excadrill,22,60,True
+D0511,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,27,60,True
+D0531,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Basic Box,29,60,True
+D0432,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0507,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dudunsparce,25,60,True
+D0505,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,26,60,True
+D0504,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,25,60,True
+D0503,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0499,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Venusaur,29,60,True
+D0498,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,25,60,True
+D0497,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Dusknoir,28,60,True
+D0496,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ogerpon Meganium Hydrapple,25,60,True
+D0493,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Greninja,28,60,True
+D0492,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,25,60,True
+D0491,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,27,60,True
+D0490,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0561,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0584,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Diancie Dusknoir,22,60,True
+D0583,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Grimmsnarl Froslass,26,60,True
+D0582,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,25,60,True
+D0579,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dudunsparce,33,60,True
+D0577,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0575,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Blaziken,27,60,True
+D0574,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Festival Lead,25,60,True
+D0572,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,24,60,True
+D0571,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,26,60,True
+D0570,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,23,60,True
+D0567,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Chandelure,26,60,True
+D0565,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,25,60,True
+D0564,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0508,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,23,60,True
+D0560,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mew Box,27,60,True
+D0556,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Greninja,31,60,True
+D0555,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lucario Hariyama,25,60,True
+D0552,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,29,60,True
+D0550,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0549,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0546,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,25,60,True
+D0543,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Greninja,28,60,True
+D0542,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0539,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,27,60,True
+D0538,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0537,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Excadrill,23,60,True
+D0535,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Slowking,29,60,True
+D0453,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Kangaskhan Bouffalant,25,60,True
+D0471,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,29,60,True
+D0467,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,26,60,True
+D0465,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Excadrill,19,60,True
+D0464,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Basic Box,29,60,True
+D0463,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Basic Box,29,60,True
+D0462,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Sharpedo Toxtricity,22,60,True
+D0460,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Kangaskhan Bouffalant,27,60,True
+D0457,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Starmie Froslass,28,60,True
+D0456,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Dusknoir,28,60,True
+D0455,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Sharpedo Toxtricity,24,60,True
+D0454,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0488,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Greninja,27,60,True
+D0451,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,26,60,True
+D0450,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,28,60,True
+D0449,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Seaking Festival Lead,22,60,True
+D0448,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Greninja,27,60,True
+D0446,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Slowking,28,60,True
+D0445,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Crustle,20,60,True
+D0444,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,28,60,True
+D0440,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Festival Lead,28,60,True
+D0437,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ethan's Magcargo,23,60,True
+D0435,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Blaziken,26,60,True
+D0433,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,25,60,True
+D0489,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ogerpon Meganium Hydrapple,24,60,True
+D0479,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,26,60,True
+D0480,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0481,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Kangaskhan Bouffalant,23,60,True
+D0483,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Grimmsnarl Froslass,23,60,True
+D0484,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Clefairy Ogerpon,31,60,True
+D0477,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,28,60,True
+D0476,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,26,60,True
+D0473,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,25,60,True
+D0474,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,28,60,True
+D0486,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Toucannon,25,60,True
+D0487,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0495,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Blaziken,27,60,True
+D0578,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Blaziken,29,60,True
+D0434,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,23,60,True
+D0461,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Sharpedo Toxtricity,22,60,True
+D0494,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dudunsparce,26,60,True
+D0568,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,28,60,True
+D0541,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Dragonite,29,60,True
+D0558,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,25,60,True
+D0569,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dudunsparce,31,60,True
+D0553,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ursaluna Lunatone,28,60,True
+D0562,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,25,60,True
+D0501,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Dusknoir,27,60,True
+D0439,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0573,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Dusknoir,26,60,True
+D0452,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0458,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,26,60,True
+D0485,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Crustle,25,60,True
+D0478,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Absol Box,27,60,True
+D0523,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Charizard X,28,60,True
+D0536,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Slowking,25,60,True
+D0576,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Cynthia's Garchomp,20,60,True
+D0475,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Basic Box,30,60,True
+D0472,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0447,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,26,60,True
+D0554,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,27,60,True
+D0500,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,25,60,True
+D0548,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Festival Lead,28,60,True
+D0469,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0441,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Raging Bolt Ogerpon,29,60,True
+D0566,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0557,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,25,60,True
+D0482,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dhelmise,25,60,True
+D0534,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dudunsparce,27,60,True
+D0502,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Excadrill,21,60,True
+D0529,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Venusaur,23,60,True
+D0506,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0442,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Other,32,60,True
+D0540,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ogerpon Meganium Hydrapple,25,60,True
+D0510,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lucario Hariyama,20,60,True
+D0466,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Mega Lucario,23,60,True
+D0438,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Starmie Froslass,25,60,True
+D0551,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,30,60,True
+D0544,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult,24,60,True
+D0528,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Cynthia's Garchomp,20,60,True
+D0581,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Slowking,25,60,True
+D0545,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,28,60,True
+D0470,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Decidueye,29,60,True
+D0532,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lucario Hariyama,22,60,True
+D0563,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dudunsparce,26,60,True
+D0547,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Festival Lead,26,60,True
+D0468,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Starmie Froslass,26,60,True
+D0533,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Beedrill,21,60,True
+D0559,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Other,20,60,True
+D0443,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Manectric Eelektrik,26,60,True
+D0513,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Lopunny Dusknoir,27,60,True
+D0518,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,N's Zoroark,28,60,True
+D0526,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Rocket's Honchkrow,20,60,True
+D0580,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Dragapult Blaziken,28,60,True
+D0459,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Alakazam Dusknoir,23,60,True
+D0436,6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,Ogerpon Meganium Hydrapple,25,60,True

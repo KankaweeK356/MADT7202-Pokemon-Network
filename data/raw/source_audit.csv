@@ -1,0 +1,4 @@
+tournament_id,tournament_name,date,format,listed_players,standings_rows,decklists_setting,is_public,public_page,api_standings
+6aa6db0938886b36383beef2,Pumpkaweekly,2026-09-14T18:00:00+00:00,STANDARD,255,255,True,True,https://play.limitlesstcg.com/tournament/6aa6db0938886b36383beef2/details,https://play.limitlesstcg.com/api/tournaments/6aa6db0938886b36383beef2/standings
+6ab03b02e905c1db68746671,Pumpkaweekly,2026-09-21T18:00:00+00:00,STANDARD,176,176,True,True,https://play.limitlesstcg.com/tournament/6ab03b02e905c1db68746671/details,https://play.limitlesstcg.com/api/tournaments/6ab03b02e905c1db68746671/standings
+6aba3f73880ed327106de5ae,Pumpkaweekly,2026-09-28T18:00:00+00:00,STANDARD,153,153,True,True,https://play.limitlesstcg.com/tournament/6aba3f73880ed327106de5ae/details,https://play.limitlesstcg.com/api/tournaments/6aba3f73880ed327106de5ae/standings
